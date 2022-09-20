@@ -11,6 +11,8 @@
   ],
   "extensionPack": [ 
     "publisher.extensionName",
-    "dracula-theme.theme-dracula"
+    "dracula-theme.theme-dracula",
+    "vscode-icons-team.vscode-icons",
+    "ipedrazas.kubernetes-snippets"
   ]
 }
